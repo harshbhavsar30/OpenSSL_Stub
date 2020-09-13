@@ -1,0 +1,8 @@
+﻿  OpenSSL_Stub.cpp
+OpenSSL_Stub.obj : error LNK2019: unresolved external symbol EVP_Cipher referenced in function main
+OpenSSL_Stub.obj : error LNK2019: unresolved external symbol EVP_CipherInit_ex referenced in function main
+OpenSSL_Stub.obj : error LNK2019: unresolved external symbol EVP_CIPHER_CTX_new referenced in function main
+OpenSSL_Stub.obj : error LNK2019: unresolved external symbol EVP_CIPHER_CTX_ctrl referenced in function main
+OpenSSL_Stub.obj : error LNK2019: unresolved external symbol EVP_aes_128_gcm referenced in function main
+OpenSSL_Stub.obj : error LNK2019: unresolved external symbol EVP_aes_256_gcm referenced in function main
+D:\Work\libSRTP\OpenSSL_Stub_AES_GCM\OpenSSL_Stub_AES_GCM\x64\Debug\OpenSSL_Stub.exe : fatal error LNK1120: 6 unresolved externals
